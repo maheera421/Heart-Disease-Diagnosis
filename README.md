@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/maheera421/HeartCare-ML.git
+    git clone https://github.com/maheera421/Heart-Disease-Diagnosis-Model.git
     ```
 
 2. Install the required dependencies:
